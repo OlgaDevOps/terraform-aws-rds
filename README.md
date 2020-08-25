@@ -1,1 +1,1 @@
-# terraform-aws-rdsinstance
+# terraform-aws-rds-instance
